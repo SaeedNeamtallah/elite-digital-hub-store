@@ -1,0 +1,18 @@
+{
+  "name": "Elite Digital Hub",
+  "short_name": "Elite Hub",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7fafb",
+  "theme_color": "#f8fbfc",
+  "description": "اشتراكات ذكاء اصطناعي وخدمات رقمية بأسعار مخفضة.",
+  "icons": [
+    {
+      "src": "assets/brand/favicon.png",
+      "sizes": "96x94",
+      "type": "image/png"
+    }
+  ]
+}

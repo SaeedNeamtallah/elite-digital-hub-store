@@ -1,0 +1,13 @@
+{
+  "name": "elite-digital-hub-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first Arabic storefront for Elite Digital Hub",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node tests/site-check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
