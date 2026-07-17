@@ -5,10 +5,6 @@
   "description": "Mobile-first Arabic storefront for Elite Digital Hub",
   "scripts": {
     "build": "node build.mjs",
-    "start": "node server.js",
     "check": "node tests/site-check.mjs"
-  },
-  "engines": {
-    "node": ">=18"
   }
 }
